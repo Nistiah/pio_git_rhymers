@@ -4,6 +4,7 @@ public class FIFORhymer extends DefaultCountingOutRhymer {
 	/**
 	 * couting DefaultCountingOutRhymers object creation
 	 */
+	//TODO: improve names, temp and ret are not the best
 	private final DefaultCountingOutRhymer temp = new DefaultCountingOutRhymer();
 
 	/**

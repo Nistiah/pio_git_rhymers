@@ -9,6 +9,7 @@ public class DefaultCountingOutRhymer {
 
 	private int total = VALUE;
 
+	//TODO: delete this getter
 	public int getTotal() {
 		return total;
 	}
