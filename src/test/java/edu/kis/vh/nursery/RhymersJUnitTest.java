@@ -5,6 +5,7 @@ import org.junit.Test;
 
 public class RhymersJUnitTest {
 
+	//wszystko przeszlo - komentarz aby moc zrobic commit
 	@Test
 	public void testCountIn() {
 		DefaultCountingOutRhymer rhymer = new DefaultCountingOutRhymer();
